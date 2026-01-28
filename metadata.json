@@ -1,0 +1,5 @@
+{
+  "name": "SA Shift Signup System",
+  "description": "A secure web-based shift selection system for Student Assistants featuring access codes, Firestore integration, and an administrative dashboard for CSV exports.",
+  "requestFramePermissions": []
+}
